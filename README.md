@@ -10,8 +10,8 @@ Technology](http://kit.ac.in/) .
 We are still growing so hope very soon we will be the one of giant & active
 Python community in India.
 
-Find Us : [Twitter](https://twitter.com/PythonKanpur)
-[MeetUp](https://www.meetup.com/KanpurPython/)
-[Facebook](https://www.facebook.com/KanpurPython/)
+Find Us : [Twitter](https://twitter.com/PythonKanpur)&nbsp;&nbsp;&nbsp;
+[MeetUp](https://www.meetup.com/KanpurPython/)&nbsp;&nbsp;&nbsp;
+[Facebook](https://www.facebook.com/KanpurPython/)&nbsp;&nbsp;&nbsp;
 
 
