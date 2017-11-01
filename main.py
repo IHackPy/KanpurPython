@@ -10,5 +10,8 @@ def home():
 def about():
     return render_template('about.html')
 
+@app.route("/learn")
+def learn():
+    return render_template("learn.html")
 if __name__=='__main__':
     app.run(debug=True)
