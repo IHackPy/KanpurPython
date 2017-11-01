@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="{{ url_for('static',filename='css/bootstrap.min.css') }}">
     <!-- adding stylesheet and favicon -->
     <link rel="stylesheet" type="text/css" href="{{  url_for('static',filename='css/style.css')  }}">
-    <link rel="shortcut icon" href="{{url_for('static',filename='favicon.ico')}}">
+    <link rel="shortcut icon" href="{{url_for('static',filename='images/kanpur_python.png')}}">
 </head>
 <body>
     <center>
@@ -18,11 +18,11 @@
         <li role="presentation"><a href="https://twitter.com/PythonKanpur" target="_blank">Twitter</a></li>
         <li role="presentation"><a href="https://www.meetup.com/KanpurPython/" target="_blank">Meetup</a></li>
     </ul>
-    </center>
-    <br><br>
+    </center><br>
     <center>
-        <h1>PyKanpur</h1><br>
-        <h2>Kanpur Python Users Group</h2>
+        <img src="{{url_for('static',filename='images/kanpur_python.png')}}" height = "200" width="200">
+        <h1>PyKanpur</h1>
+        <p><h2>Kanpur Python Users Group</h2></p>
     </center>
 </body>
 </html>
