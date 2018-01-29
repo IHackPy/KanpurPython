@@ -1,7 +1,7 @@
 # KanpurPython
 KanpurPython is one of the growing Python Community in India .We are just 6
-month old community in Kanpur and get awesome response from students and
-professional in Kanpur. We have 50+
+month old community in Kanpur and we are getting awesome response from students and
+professional in Kanpur. We have 100+
 active members who works for spreading love of Python over Kanpur or region
 near by Kanpur . Recently we conduct two workshops in reputed colleges of
 Kanpur named as [Allenhouse Institute of
